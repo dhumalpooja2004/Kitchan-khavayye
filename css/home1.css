@@ -1,5 +1,5 @@
-.body{
-    background-color: dimgrey;
+body{
+    background-color:rgb(204, 184, 157);
 }
 .flexhome{
     padding: 30px;
@@ -9,4 +9,9 @@
 }
 img{
     margin:12px;
+}
+.order{
+    background-color: black;
+    color: white;
+    height: 50px;
 }
