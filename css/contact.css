@@ -1,3 +1,23 @@
 body{
     background-color:rgb(204, 184, 157);
 }
+.img1{
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.call{
+    align-items: center;
+}
+.align{
+    font-family: 'Courier New', Courier, monospace;
+}
+.con-card{
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+
+}
+.card-container{
+    display: flex;
+
+}
